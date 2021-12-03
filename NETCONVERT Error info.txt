@@ -1,0 +1,4 @@
+Error: Road geometry must be of type 'linestring' or 'linestring25D' (found '3')
+
+https://qgis.org/api/2.18/classQgsWKBTypes.html
+The '3' that was found refers to QGIS' "polygon" geometry type
